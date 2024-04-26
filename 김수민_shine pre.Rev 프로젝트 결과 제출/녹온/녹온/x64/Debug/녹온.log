@@ -1,0 +1,4 @@
+﻿  knockon.c
+C:\Users\ksm66\OneDrive\바탕 화면\녹온\녹온\knockon.c(94,13): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+C:\Users\ksm66\OneDrive\바탕 화면\녹온\녹온\knockon.c(96,17): warning C4133: '함수': 'FILE *'과(와) 'const char *const ' 사이의 형식이 호환되지 않습니다.
+  녹온.vcxproj -> C:\Users\ksm66\OneDrive\바탕 화면\녹온\x64\Debug\녹온.exe

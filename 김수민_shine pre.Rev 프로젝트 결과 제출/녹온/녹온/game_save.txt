@@ -1,0 +1,6 @@
+Money: 1000
+Pokemon: ÇÇÄ«Ãò, HP: 100, Level: 5
+Pokemon: ²¿ºÎ±â, HP: 100, Level: 1
+Pokemon: ÆÄÀÌ¸®, HP: 100, Level: 3
+Pokemon: ³Ä¿Ë, HP: 100, Level: 1
+Pokemon: ±è¼ö¹Î, HP: 100000000, Level: 100000000

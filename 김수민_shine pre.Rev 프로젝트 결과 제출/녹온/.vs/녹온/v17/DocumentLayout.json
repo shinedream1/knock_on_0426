@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ksm66\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB179\uC628\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FD3371-A0A9-4FEE-BF74-3B8A09843031}|\uB179\uC628\\\uB179\uC628.vcxproj|C:\\Users\\ksm66\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB179\uC628\\\uB179\uC628\\knockon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D2FD3371-A0A9-4FEE-BF74-3B8A09843031}|\uB179\uC628\\\uB179\uC628.vcxproj|solutionrelative:\uB179\uC628\\knockon.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "knockon.c",
+              "DocumentMoniker": "C:\\Users\\ksm66\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB179\uC628\\\uB179\uC628\\knockon.c",
+              "RelativeDocumentMoniker": "\uB179\uC628\\knockon.c",
+              "ToolTip": "C:\\Users\\ksm66\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\\uB179\uC628\\\uB179\uC628\\knockon.c",
+              "RelativeToolTip": "\uB179\uC628\\knockon.c",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAAAKkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-04-25T16:58:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
